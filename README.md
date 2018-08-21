@@ -4,7 +4,7 @@ There is a problem with installing older PHP versions on new Debian systems. Thi
 ## Download DEB packages
 Luckily we can use repositories from Ubuntu and its Launchpad. I use [repository from SergeyD](https://launchpad.net/~sergey-dryabzhinsky/+archive/ubuntu/php53).
 
-Select all packages that you want to use - depends on you architecture. For example I use these:
+Select all packages that you want to use - depends on your architecture. For example I use these:
 
 - [php53-cli](https://launchpad.net/~sergey-dryabzhinsky/+archive/ubuntu/php53/+files/php53-cli_5.3.29-1sergeyd14.4~xenial1_amd64.deb)
 - [php53-common](https://launchpad.net/~sergey-dryabzhinsky/+archive/ubuntu/php53/+files/php53-cli_5.3.29-1sergeyd14.4~xenial1_amd64.deb)
@@ -26,7 +26,7 @@ Install all packages at once by dpkg.
 ## Done
 Profit!
 
-`/usr/bin/php53 -v`
+Test PHP installation: `/usr/bin/php53 -v`
 
 ### Misc
 I use PHP as FPM so there should be more things to do.
