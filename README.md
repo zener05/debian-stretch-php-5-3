@@ -45,7 +45,5 @@ I use apache2 as webserver and this is my VirtualHost setting for web running on
         <Directory /var/www/web.example.com>
                 AllowOverride All
         </Directory>
-
-
 </VirtualHost>
 ```
