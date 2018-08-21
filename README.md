@@ -34,7 +34,7 @@ I use PHP as FPM so there should be more things to do.
 - Create PHP-FPM pool file. Sample file is located here - `/etc/php53/fpm/pool.d/pool-www-data.conf.example`. You can use sample config file as yours and just rename it.
 - Enable PHP-FPM service (uncomment it in `/etc/default/php53-fpm`)
 
-I use apache2 as webserver and this is my VirtualHost setting for web running on PHP 5.3
+I use apache2 as webserver and this is my VirtualHost settings for web running on PHP 5.3.
 ```
 <VirtualHost *:80>
         ServerName web.example.com
