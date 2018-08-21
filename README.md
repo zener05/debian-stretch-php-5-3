@@ -7,7 +7,7 @@ Luckily we can use repositories from Ubuntu and its Launchpad. I use [repository
 Select all packages that you want to use - depends on your architecture. For example I use these:
 
 - [php53-cli](https://launchpad.net/~sergey-dryabzhinsky/+archive/ubuntu/php53/+files/php53-cli_5.3.29-1sergeyd14.4~xenial1_amd64.deb)
-- [php53-common](https://launchpad.net/~sergey-dryabzhinsky/+archive/ubuntu/php53/+files/php53-cli_5.3.29-1sergeyd14.4~xenial1_amd64.deb)
+- [php53-common](https://launchpad.net/~sergey-dryabzhinsky/+archive/ubuntu/php53/+files/php53-common_5.3.29-1sergeyd14.4~xenial1_all.deb)
 - [php53-fpm](https://launchpad.net/~sergey-dryabzhinsky/+archive/ubuntu/php53/+files/php53-fpm_5.3.29-1sergeyd14.4~xenial1_amd64.deb)
 - [php53-mod-curl](https://launchpad.net/~sergey-dryabzhinsky/+archive/ubuntu/php53/+files/php53-mod-curl_5.3.29-1sergeyd14.4~xenial1_amd64.deb)
 - [php53-mod-gd](https://launchpad.net/~sergey-dryabzhinsky/+archive/ubuntu/php53/+files/php53-mod-gd_5.3.29-1sergeyd14.4~xenial1_amd64.deb)
